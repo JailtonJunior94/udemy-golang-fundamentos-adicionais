@@ -1,0 +1,7 @@
+mode: set
+github.com/jailtonjunior94/udemy-golang-fundamentos-adicionais/testesautomatizados/enderecos/enderecos.go:8.45,15.36 5 1
+github.com/jailtonjunior94/udemy-golang-fundamentos-adicionais/testesautomatizados/enderecos/enderecos.go:21.2,21.24 1 1
+github.com/jailtonjunior94/udemy-golang-fundamentos-adicionais/testesautomatizados/enderecos/enderecos.go:25.2,25.25 1 1
+github.com/jailtonjunior94/udemy-golang-fundamentos-adicionais/testesautomatizados/enderecos/enderecos.go:15.36,16.38 1 1
+github.com/jailtonjunior94/udemy-golang-fundamentos-adicionais/testesautomatizados/enderecos/enderecos.go:16.38,18.4 1 1
+github.com/jailtonjunior94/udemy-golang-fundamentos-adicionais/testesautomatizados/enderecos/enderecos.go:21.24,23.3 1 1
